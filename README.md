@@ -1,6 +1,6 @@
 # GithubTools
 
-A collection of GitHub command line commands for a better workflow. GithubTools is a command line that bundles a variety of functionality that better integrates GitHub with Git.
+A collection of GitHub command line commands for a better workflow. GithubTools is a command line tool that bundles a variety of functionality that better integrates GitHub with Git.
 
 ## Installation
 
