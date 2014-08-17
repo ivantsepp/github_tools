@@ -10,7 +10,7 @@ Install via RubyGems:
 
 ## Usage
 
-TODO: Write usage instructions here
+Run `github_tools` to view the list of commands available. It is recommended that you alias something like `gt` to `github_tools`.
 
 ## Contributing
 
