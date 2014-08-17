@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+
+# To help development
+$:.unshift File.join(File.dirname(__FILE__), *%w{ .. lib })
+
+require 'github_tools'
+GithubTools::CLI.start(ARGV)
